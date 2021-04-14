@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGPEncryptDesktop", "PGPEncryptDesktop.csproj", "{339F78C6-A757-45B5-98E2-FF0A4651224C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrzToolHelper", "..\..\GrzToolHelper\GrzToolHelper\GrzToolHelper.csproj", "{C536FF1D-C711-4C6A-AB61-FDF4A86C6C38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{339F78C6-A757-45B5-98E2-FF0A4651224C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339F78C6-A757-45B5-98E2-FF0A4651224C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339F78C6-A757-45B5-98E2-FF0A4651224C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339F78C6-A757-45B5-98E2-FF0A4651224C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C536FF1D-C711-4C6A-AB61-FDF4A86C6C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C536FF1D-C711-4C6A-AB61-FDF4A86C6C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C536FF1D-C711-4C6A-AB61-FDF4A86C6C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C536FF1D-C711-4C6A-AB61-FDF4A86C6C38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC5EF9C3-00AD-40FC-AA7E-0AFD392DBD9E}
+	EndGlobalSection
+EndGlobal
